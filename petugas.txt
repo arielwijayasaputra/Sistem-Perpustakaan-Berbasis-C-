@@ -1,0 +1,18 @@
+==========================
+ID Petugas : 866229
+Username   : Budi
+Password   : 111
+Nama       : Budi
+==========================
+516017
+Rill
+111
+Ariel
+ID:100001
+Username:Ariel
+Password:1234
+----
+ID:100002
+Username:Ariel
+Password:1234
+----

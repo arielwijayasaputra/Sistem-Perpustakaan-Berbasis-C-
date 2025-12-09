@@ -1,0 +1,7 @@
+776646|390797|444135|01-11-2025|01-11-2025|0|0
+ID_Peminjaman:300001
+Nama_Anggota:Fandy
+Judul_Buku:Kimi no na wa
+Tgl_Pinjam:9-12-2025
+Status:1
+----

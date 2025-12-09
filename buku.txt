@@ -1,0 +1,9 @@
+444135|1111111111111|Your Name|F|A|2014|7|1
+ID:200001
+ISBN:9786237351207
+Judul:Kimi no na wa
+Pengarang:Makoto Shinkai
+Penerbit:Elex Komputindo
+Tahun:2022
+Stok:6
+----

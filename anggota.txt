@@ -1,0 +1,17 @@
+390797|20090817001|Ariel|Rejotangan|17-8-2009|ariel|1
+Kode:20090101001
+ID:300001
+Nama:Dedi
+Alamat:Tulungagung
+Tanggal:1-1-2009
+Email:dedi@gmail.com
+Status:1
+----
+Kode:20090202002
+ID:300002
+Nama:Fandy
+Alamat:Tulungagung
+Tanggal:2-2-2009
+Email:fandy@gmail.com
+Status:1
+----
