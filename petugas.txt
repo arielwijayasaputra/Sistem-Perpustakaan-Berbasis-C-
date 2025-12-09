@@ -1,4 +1,3 @@
-----
 ID:100002
 Username:Ariel
 Password:1234
